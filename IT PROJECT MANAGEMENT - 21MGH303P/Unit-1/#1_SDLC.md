@@ -2,7 +2,7 @@ The **Software Development Life Cycle** (SDLC) is a structured framework used by
 
 The goal of the SDLC is to produce high-quality software that meets or exceeds customer expectations, reaches completion within time and cost estimates, and is efficient to maintain.
 
-![SDLC](../imgs/Phase-of-SDLC.png)
+![SDLC](https://github.com/anirudhagaikwad/EvenSem2026_3rdYr/blob/main/IT%20PROJECT%20MANAGEMENT%20-%2021MGH303P/Unit-1/imgs/Phase-of-SDLC.png)
 
 **Phase 1 - Planning**
 First, this phase of the software development lifecycle is planning. This phase involves defining the project, determining the goals, objectives and Identifying the resources required. The planning phase sets the foundation for the entire software development project. Moreover, it is crucial to get it right.
