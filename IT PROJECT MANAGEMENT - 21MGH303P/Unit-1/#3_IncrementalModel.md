@@ -13,7 +13,7 @@ The **Incremental Process Model** is a method of software development where the 
 ---
 **Phases of the Incremental Model**
 The phases of Incremental model is divided into the four parts which is Requirement, Design, Testing phases and Implementation phase. 
-![Incremental](../imgs/IncrementalModel.png)
+![Incremental](https://github.com/anirudhagaikwad/EvenSem2026_3rdYr/blob/main/IT%20PROJECT%20MANAGEMENT%20-%2021MGH303P/Unit-1/imgs/IncrementalModel.png)
 
 **1. Requirement Analysis**
 The first step in the Incremental Model is understanding what the software needs to do. The team gathers the requirements from the product experts and clearly defines the system’s functional needs. This phase is important because it sets the foundation for everything else in the development process.

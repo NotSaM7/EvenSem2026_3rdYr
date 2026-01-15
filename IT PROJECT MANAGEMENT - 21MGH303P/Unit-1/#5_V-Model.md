@@ -5,7 +5,7 @@ It creates a structure like the letter 'V,' which includes various phases that w
 **Phases of SDLC V-Model**
 The V-Model, which includes the Verification and Validation it is a structural approach to software development.
 
-![V-Model](../imgs/VModel.png)
+![V-Model](https://github.com/anirudhagaikwad/EvenSem2026_3rdYr/blob/main/IT%20PROJECT%20MANAGEMENT%20-%2021MGH303P/Unit-1/imgs/VModel.png)
 
 **1. V-Model Verification Phases**
 This is where the process begins. The first step is to gather and understand the customer’s needs for the software. The goal is to define the scope of the project clearly to make sure everyone is on the same page.

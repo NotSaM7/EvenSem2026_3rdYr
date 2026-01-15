@@ -8,7 +8,7 @@ The Waterfall Model is a traditional and sequential software development approac
 
 **Phases of Waterfall Model**
 Classical Waterfall Model divides the life cycle into a set of phases. The development process can be considered as a sequential flow in the waterfall. 
-![Waterfall](../imgs/WaterFall.png)
+![Waterfall](https://github.com/anirudhagaikwad/EvenSem2026_3rdYr/blob/main/IT%20PROJECT%20MANAGEMENT%20-%2021MGH303P/Unit-1/imgs/WaterFall.png)
 
 **1. Requirements Analysis and Specification**
 Requirement Analysis and specification phase aims to understand the exact requirements of the customer and document them properly. This phase consists of two different activities. 

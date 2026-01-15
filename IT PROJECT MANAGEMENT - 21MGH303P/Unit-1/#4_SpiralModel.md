@@ -11,7 +11,7 @@ The Spiral Model was first proposed by Barry Boehm.
 **Phases of the Spiral Model**
 The Spiral Model is a risk-driven model, meaning that the focus is on managing risk through multiple iterations of the software development process. Each phase of the Spiral Model is divided into four Quadrants:
 
-![Spiral](../imgs/SpiralModel.png)
+![Spiral](https://github.com/anirudhagaikwad/EvenSem2026_3rdYr/blob/main/IT%20PROJECT%20MANAGEMENT%20-%2021MGH303P/Unit-1/imgs/SpiralModel.png)
 
 **1. Objectives Defined**
 In first phase of the spiral model we clarify what the project aims to achieve, including functional and non-functional requirements.
