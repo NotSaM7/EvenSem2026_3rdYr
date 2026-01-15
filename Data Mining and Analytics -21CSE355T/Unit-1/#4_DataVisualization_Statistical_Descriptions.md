@@ -422,9 +422,9 @@ So points are:
 
 Here are some real examples of what Q-Q plots look like (with labels):
 
-![Box Plot](../imgs/normal_probability_plot_C3.webp)
+![Q-Q Plot](../imgs/normal_probability_plot_C3.webp)
 
-![Box Plot](../imgs/NORMALDISTRIBUTION-660x362.png)
+![Q-Q Plot](../imgs/NORMALDISTRIBUTION-660x362.png)
 
 **Step 4: Add a reference line (optional but very helpful)**
 Usually a straight line is added from the 25th to 75th percentile (or simply y = x after scaling).
@@ -573,7 +573,7 @@ visualize parts of a whole as proportional slices in a circle, excellent for sho
 **How Pie Charts Work**
 ->Circular Representation: A whole dataset is a full circle (100% or 360°).
 ->Slices: Each category gets a slice (sector) whose area, arc length, and angle are proportional to its value.
-->Proportions: Slices show how much each part contributes to the tota
+->Proportions: Slices show how much each part contributes to the total
 
 **When to Use Them**
 ->Part-to-Whole: To show composition (e.g., market share, budget breakdown).
@@ -640,8 +640,7 @@ visualize parts of a whole as proportional slices in a circle, excellent for sho
 ---
 
 ## Bar Chart
-A
-bar chart (or bar graph) is a visual tool that represents data using rectangular bars of varying lengths or heights. It is primarily used to compare discrete categories or groups, where each bar's length is proportional to the value it represents.
+A bar chart (or bar graph) is a visual tool that represents data using rectangular bars of varying lengths or heights. It is primarily used to compare discrete categories or groups, where each bar's length is proportional to the value it represents.
 
 **Types of Bar Charts and Techniques**
 The choice of bar chart type depends on the data and the message you want to convey: 
