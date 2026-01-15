@@ -145,21 +145,6 @@ https://forms.gle/shCg3niRVUAcofmS9
 - 🔹 Weekly Google Form = **progress monitoring tool**
 - 🔹 Asking **concept learned + proof upload** ensures seriousness
 
-If you want, I can also:
-- ✅ Design a **ready-made Google Form template**
-- ✅ Create a **weekly evaluation rubric**
-- ✅ Draft an **official instruction message** for students
-
-Just tell me 👍
-
-
-# 📘 MOOC (NPTEL) – Complete Faculty Toolkit
-
-Below are **ready-to-use resources** you can directly copy–paste and use:
-
----
-
-## ✅ 1️⃣ Ready-Made Google Form Template (Weekly Status Report)
 
 ### 📌 Form Title
 **NPTEL MOOC – Weekly Progress Status Report**
@@ -274,8 +259,6 @@ Below are **ready-to-use resources** you can directly copy–paste and use:
 - **Moderate** → Score 12–17  
 - **Inactive / At Risk** → Score < 12  
 
-📌 *Use this to counsel students early.*
-
 ---
 
 ## ✅ 3️⃣ Official Instruction Message for Students (Ready to Share)
@@ -314,9 +297,3 @@ Below are **ready-to-use resources** you can directly copy–paste and use:
 - Track progress in **Google Sheets**  
 - Counsel students marked **Inactive** by Week 3–4  
 
-If you want next:
-- 📊 **Auto-grading Google Sheet**
-- 🧾 **Final internal marks calculation format**
-- 📄 **NAAC/NBA evidence checklist**
-
-Just tell me 👍
