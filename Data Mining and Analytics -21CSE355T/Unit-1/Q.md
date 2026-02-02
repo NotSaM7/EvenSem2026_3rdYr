@@ -11,7 +11,7 @@
 - Differences/Comparisons  
 - Explain with examples  
 
-### 50 Important Questions – Unit-1
+###  Question Bank – Unit-1
 
 **Section A: Introduction & Basic Concepts**  
 1. Define data mining. How is it different from traditional data analysis?  
@@ -74,6 +74,19 @@
 48. What are the measures of central tendency and dispersion? Explain with examples and their significance in data mining. (10 marks)  
 49. Describe data preprocessing in detail. Explain cleaning, integration, transformation, and reduction with techniques and examples. (16 marks – most repeated)  
 50. Write a detailed note on data preprocessing tasks, challenges in real-world data, and how preprocessing improves mining results. (16 marks)
+51. Explain the different kinds of data and patterns in data mining with examples.
+52. Describe any four data preprocessing techniques with their purpose.
+53. Differentiate between data discretization and data reduction. Give one method for each.
+53. Explain the steps of the Apriori algorithm with a small example.
+54. What is market basket analysis? Define support and confidence with formulas.
+55. Describe the advantages of FP-growth over Apriori.
+56. Discuss the complete data preprocessing process in detail, including cleaning, integration, transformation, and reduction techniques. Illustrate with suitable examples.
+57. Explain attribute subset selection methods and data visualization techniques used in data preparation for mining. Provide examples of each.
+58. Describe the Apriori algorithm in detail. Discuss its limitations and how mining frequent itemsets without candidate generation addresses them.
+59. Explain multilevel and multidimensional association rules. Discuss constraint-based association mining with examples.
+
+
+
 
 **Preparation Tips for Exam**  
 - Focus maximum on **Data Preprocessing** (questions 28–50) – usually 1 full 16-mark question + many short ones.  
@@ -86,6 +99,39 @@
 - Revise from **Han & Kamber** book – Chapter 2 & 3 (most questions come from there)
 
 ## Some other Questions 
+
+**MCQ**
+
+Which of the following is a nominal attribute type?  
+   a) Age b) Temperature c) Gender d) Salary 
+
+Data visualization is primarily used to:  
+   a) Clean data b) Discover patterns c) Reduce dimensions d) Transform values 
+
+Which step in data preprocessing handles missing values?  
+   a) Data integration b) Data cleaning c) Data discretization d) Sampling 
+
+Histogram is a technique used in:  
+   a) Data cleaning b) Data reduction c) Data transformation d) Attribute selection  
+
+Clustering for data reduction belongs to:  
+   a) Numerosity reduction b) Dimensionality reduction c) Data integration d) Discretization
+
+In market basket analysis, support of an itemset is defined as:  
+   a) Confidence / Lift b) Frequency of occurrence / Total transactions c) Probability of co-occurrence d) Correlation coefficient
+
+The Apriori algorithm uses which property to prune candidates?  
+   a) Downward closure b) Upward closure c) Monotonicity d) Apriori property
+
+FP-growth algorithm avoids:  
+   a) Candidate generation b) Support counting c) Tree construction d) Pattern mining
+
+Correlation analysis in association mining is used to:  
+   a) Find frequent itemsets b) Identify interesting rules c) Generate candidates d) Prune rules 
+
+Multidimensional association rules involve:  
+    a) Single dimension b) Multiple dimensions c) Binary attributes only d) Transactional data only 
+
 
 **Short Notes:**  
 1. Kinds of Data in Data Mining  

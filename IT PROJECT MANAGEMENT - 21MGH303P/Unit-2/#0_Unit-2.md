@@ -178,6 +178,8 @@ Shortening project duration by adding resources or overtime—at extra cost.
 
 **Practical Tip:** Practical 4: Crashing Techniques—Calculate cost-time trade-offs.
 
+
+
 ## Connections to Course and Practicals
 - **Links to COs:** CO-3 (Project management features like scheduling). Builds on Unit 1's planning.
 - **Practicals Summary:**
